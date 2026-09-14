@@ -13480,7 +13480,7 @@ __metadata:
     webpack: "npm:5.110.3"
     webpack-cli: "npm:7.2.3"
     webpack-merge: "npm:6.0.1"
-    yaml: "npm:^2.9.0"
+    yaml: "npm:^2.9.1"
   languageName: unknown
   linkType: soft
 
