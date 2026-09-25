@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Repository Archived & Moved**
+>
+> This repository is archived. Active development for the Kaoto VS Code extension has moved to the **[Kaoto monorepo](https://github.com/KaotoIO/kaoto)** under the [`packages/kaoto-vscode`](https://github.com/KaotoIO/kaoto/tree/main/packages/kaoto-vscode) package. Please submit issues and pull requests there.
+
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-1.100+-blue?style=for-the-badge" alt="Visual Studio Code Support"/>
   <a href="https://github.com/KaotoIO/vscode-kaoto/blob/main/LICENSE"><img src="https://img.shields.io/github/license/KaotoIO/vscode-kaoto?color=yellow&style=for-the-badge&logo=apache" alt="License"/></a>
